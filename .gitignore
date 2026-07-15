@@ -1,0 +1,50 @@
+# ChromaBridge-specifikt
+test_binary_output/*.bin
+test_binary_output/
+zip_output/
+prepper_log.txt
+assets.json
+*.log
+
+# Node.js / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json  # Kan inkluderes hvis du vil låse versioner
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.db
+*.sqlite
+
+# Chromaplex output
+*.bin
+*.cpx
+*.cpa
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Andre
+*.log
+*.pid
+*.seed
+*.pid.lock

@@ -1,0 +1,5 @@
+chromaplex-os-v2 @ git+https://github.com/Janus5G/chromaplex-os-v2.git
+requests
+beautifulsoup4
+mysql-connector-python
+psycopg2-binary
